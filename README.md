@@ -1,6 +1,6 @@
 # Description
 
-Dbtester is a small tool to run several kinds of test against a database, like connectivity and performance test.
+This is a very simple tool to flood SQL statements to against a database server.
 
 
 # Notes for using git service
