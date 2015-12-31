@@ -1,6 +1,6 @@
 # Description
 
-This is a very simple tool to flood SQL statements to against a database server.
+This is a very simple tool to flood SQL statements against a database server.
 
 
 # Notes for using git service
